@@ -629,4 +629,5 @@ PRODUCT_BOOT_JARS += \
 
 # DeviceSettings
 PRODUCT_PACKAGES += \
-   DeviceSettings
+    DeviceSettings \
+    Dirac
