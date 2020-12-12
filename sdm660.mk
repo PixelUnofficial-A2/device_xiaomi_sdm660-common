@@ -219,8 +219,8 @@ PRODUCT_PACKAGES += \
 TARGET_SCREEN_DENSITY := 400
 
 # DeviceDoze
-PRODUCT_PACKAGES += \
-    DeviceDoze
+#PRODUCT_PACKAGES += \
+#    DeviceDoze
 
 # DRM
 PRODUCT_PACKAGES += \
@@ -623,5 +623,5 @@ PRODUCT_BOOT_JARS += \
     WfdCommon
 
 # DeviceSettings
-PRODUCT_PACKAGES += \
-   DeviceSettings
+#PRODUCT_PACKAGES += \
+#   DeviceSettings
